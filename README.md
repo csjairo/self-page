@@ -1,5 +1,5 @@
 # Personal Page - Jairo Holanda
-Uma página minimalista e funcional que reflete meus valores sobre tecnologia, trabalho e tradição.
+Uma página minimalista e funcional pessoal.
 
 ## Tecnologias
 - HTML5 (Semântico)
